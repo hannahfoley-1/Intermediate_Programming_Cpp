@@ -1,0 +1,10 @@
+﻿  Test_Trans_Dict.cpp
+C:\Users\hanna\OneDrive\Desktop\2ND YEAR\INTERMEDIATE PROGRAMMING\ASSIGNMENTS\FrenchEnglishDictionary\Test_Trans_Dict.cpp(74,13): warning C4129: 'h': unrecognized character escape sequence
+C:\Users\hanna\OneDrive\Desktop\2ND YEAR\INTERMEDIATE PROGRAMMING\ASSIGNMENTS\FrenchEnglishDictionary\Test_Trans_Dict.cpp(159,10): warning C4101: 'found': unreferenced local variable
+  TranslationDictionary.cpp
+C:\Users\hanna\OneDrive\Desktop\2ND YEAR\INTERMEDIATE PROGRAMMING\ASSIGNMENTS\FrenchEnglishDictionary\TranslationDictionary.cpp(62,19): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hanna\OneDrive\Desktop\2ND YEAR\INTERMEDIATE PROGRAMMING\ASSIGNMENTS\FrenchEnglishDictionary\TranslationDictionary.cpp(76,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hanna\OneDrive\Desktop\2ND YEAR\INTERMEDIATE PROGRAMMING\ASSIGNMENTS\FrenchEnglishDictionary\TranslationDictionary.cpp(94,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hanna\OneDrive\Desktop\2ND YEAR\INTERMEDIATE PROGRAMMING\ASSIGNMENTS\FrenchEnglishDictionary\TranslationDictionary.cpp(129,23): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  FrenchEnglishDictionary.vcxproj -> C:\Users\hanna\OneDrive\Desktop\2ND YEAR\INTERMEDIATE PROGRAMMING\ASSIGNMENTS\FrenchEnglishDictionary\Debug\FrenchEnglishDictionary.exe

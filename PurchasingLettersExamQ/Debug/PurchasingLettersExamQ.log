@@ -1,0 +1,5 @@
+﻿  shopAndMoney.cpp
+C:\Users\hanna\OneDrive\Desktop\2ND YEAR\INTERMEDIATE PROGRAMMING\PAST EXAM QUESTIONs\PurchasingLettersExamQ\shopAndMoney.cpp(19,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hanna\OneDrive\Desktop\2ND YEAR\INTERMEDIATE PROGRAMMING\PAST EXAM QUESTIONs\PurchasingLettersExamQ\shopAndMoney.cpp(46,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hanna\OneDrive\Desktop\2ND YEAR\INTERMEDIATE PROGRAMMING\PAST EXAM QUESTIONs\PurchasingLettersExamQ\shopAndMoney.cpp(67,24): warning C4018: '<': signed/unsigned mismatch
+  PurchasingLettersExamQ.vcxproj -> C:\Users\hanna\OneDrive\Desktop\2ND YEAR\INTERMEDIATE PROGRAMMING\PAST EXAM QUESTIONs\PurchasingLettersExamQ\Debug\PurchasingLettersExamQ.exe
